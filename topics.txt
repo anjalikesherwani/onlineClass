@@ -1,0 +1,11 @@
+Syntax(void main)
+Variables
+Primitive Datatype
+Operators
+Conditions
+loops
+
+27/05/2024
+methods
+classes(continue)
+void + static
