@@ -9,15 +9,15 @@ public class day4buffer{
 
 
 //error handaling
-        // System.out.println("Enter your name : ");
+        System.out.println("Enter your name : ");
 
-        // String name;
-        // try {
-        //     name = a.readLine();
-        //     System.out.println("Your name is : "+name);
-        // } catch (IOException ex) {
+        String name;
+        try {
+            name = a.readLine();
+            System.out.println("Your name is : "+name);
+        } catch (IOException ex) {
 
-        // }
+        }
        
 
 
