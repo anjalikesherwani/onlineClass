@@ -9,3 +9,8 @@ loops
 methods
 classes(continue)
 void + static
+
+28/05/2024
+user input - Scanner class, buffer
+
+Datatype var = new class()
