@@ -14,3 +14,34 @@ void + static
 user input - Scanner class, buffer
 
 Datatype var = new class()
+
+Exception + file handling
+
+Exceptions:-
+1. Compile Time Error : compile returns the error. live
+2. Missing Semicolons
+3. Syntax Error
+4. MisMatch braces
+5. Module Missing
+6. File MisMatch
+7. Case MisMatch
+8. Pre-definded Variables
+9. Type MisMatch
+
+
+
+
+
+Run Time Error :execution, run time returns the error. live
+A. Logical 
+1. ArithmeticException
+2. NullPointerException
+3. Data Exception
+4. ArrayIndexOutOfBoundsException
+5. NumberFormatException
+6. Unsupported Operation
+7.ArrayStoreException
+8. SQL
+9. Tomcat
+10.File handling
+11. Async buffer

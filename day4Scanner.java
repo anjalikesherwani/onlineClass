@@ -87,7 +87,7 @@ public class day4Scanner{
         //     System.out.println("You are not an adult");
         // }
 
-//for loop
+// for loop
 
         System.out.println("Enter number :");
         int num = a.nextInt();
