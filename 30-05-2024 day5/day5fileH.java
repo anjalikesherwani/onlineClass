@@ -18,7 +18,7 @@ public class day5fileH{
         }
 
 
-//read
+// read
         // try{
         //     File a = new File("abc.txt");
         //     Scanner b = new Scanner(a);
@@ -28,7 +28,7 @@ public class day5fileH{
             
 
         // }catch(Exception e){
-            // System.out.println("File not found");
+        //     System.out.println("File not found");
         // }
 
 
